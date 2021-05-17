@@ -17,8 +17,11 @@
     "url": "git+https://github.com/ArisAgeha/axios-adapter.git"
   },
   "keywords": [
-    "measure",
-    "performance"
+    "adapter",
+    "axios",
+    "axios-adapter",
+    "axios-adapter-ui",
+    "axios-adapter-panel"
   ],
   "author": "ArisAgeha <87725092@qq.com>",
   "bugs": {
