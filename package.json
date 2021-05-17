@@ -1,5 +1,5 @@
 {
-  "name": "react-axios-adapter",
+  "name": "axios-adapter",
   "version": "0.0.8",
   "main": "lib/index.js",
   "description": "adapter and mock components for react + axios",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArisAgeha/react-axios-adapter.git"
+    "url": "git+https://github.com/ArisAgeha/axios-adapter.git"
   },
   "keywords": [
     "measure",
@@ -22,9 +22,9 @@
   ],
   "author": "ArisAgeha <87725092@qq.com>",
   "bugs": {
-    "url": "https://github.com/ArisAgeha/react-axios-adapter/issues"
+    "url": "https://github.com/ArisAgeha/axios-adapter/issues"
   },
-  "homepage": "https://github.com/ArisAgeha/react-axios-adapter",
+  "homepage": "https://github.com/ArisAgeha/axios-adapter",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
